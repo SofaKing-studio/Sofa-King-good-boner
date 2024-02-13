@@ -8,7 +8,7 @@ A sofaking good package that applies physics to bones in Unity
       - collider
       - rigidbody
 ### configurations
-- move with respect to
+- move and deform with respect to
   1. original animation assigned to the bone
   2. force(graity,collition,accelation)
   3. mass of collider
