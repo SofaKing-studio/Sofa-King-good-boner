@@ -1,10 +1,10 @@
-# Sofa King good boner
+# SofaKing good boner
 A sofaking good package that applies physics to bones in Unity
 ## roadmap
 ### structure
 - Skeleton
   - Bone
-    - SofaKing good bone
+    - SofaKing good boner
       - collider
       - rigidbody
 ### configurations
@@ -13,4 +13,4 @@ A sofaking good package that applies physics to bones in Unity
   2. force(graity,collition,accelation)
   3. mass of collider
   4. elastircity
-- all the attributes can be configured in inspector
+- all the attributes can be configured in unity's inspector
