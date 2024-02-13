@@ -1,2 +1,2 @@
 # Sofa King good boner
-a sofaking good package that applies physics to bones in Unity
+A sofaking good package that applies physics to bones in Unity
